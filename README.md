@@ -1,5 +1,6 @@
 # Fan_Anomaly_Detection
-風機異常檢測系統_Fan Anomaly Detection System   #Arduino #MPU6050 #ESP32 #Matlab #Line BOT #OpenAI API
+風機異常檢測系統_Fan Anomaly Detection System   
+#Arduino #MPU6050 #Matlab #Line BOT #OpenAI API
 
 
 ### 一. 簡介
@@ -9,9 +10,10 @@
 - 感測器製作
     - mpu6050量測數據
     <div align=center>
-    <img src='images/ppt/投影片2.JPG' width="410"> 
-    <img src='images/ppt/投影片3.JPG' width="410"> 
-</div> 
+        <img src='images/ppt/投影片3.JPG' width="410"> 
+        <img src='images/ppt/投影片4.JPG' width="410"> 
+    </div> 
+
     - 解決延遲問題
 - 機器學習
     - 用matlab訓練&判斷模型
