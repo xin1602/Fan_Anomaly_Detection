@@ -20,7 +20,7 @@
         <img src='images/ppt/投影片6.JPG' width="800"> 
         <img src='images/ppt/投影片7.JPG' width="800"> 
     </div> 
-    
+
 - 機器學習
     - 用matlab訓練&判斷模型
     <div align=center>
@@ -32,14 +32,12 @@
     <div align=center>
         <img src='images/ppt/投影片14.JPG' width="800"> 
     </div> 
+
     - 結合電風扇數據，判斷電風扇狀態
-    分析各種狀態像是強/中/弱/正常/異常，這邊以弱的異常的數據做為範例，我們匯入csv後，先簡單算出xyz加速度的向量長度的最小、最大和平均值。
-    
-    讀取現有csv檔的內容，判斷電風扇狀態。
-    1.z軸的加速度數據(csv)
-    2.匯入csv，判斷電風扇的狀態(強/中/弱/正常/故障)(python)
-    3.讀取 csv，利用get的方式，傳遞z軸加速度數值
-    4.將電風扇的狀態傳至Line上，通知使用者
+    1. z軸的加速度數據(csv)
+    2. 匯入csv，判斷電風扇的狀態(強/中/弱/正常/故障)(python)
+    3. 讀取 csv，利用get的方式，傳遞z軸加速度數值
+    4. 將電風扇的狀態傳至Line上，通知使用者
 
     <div align=center>
         <img src='images/ppt/投影片15.JPG' width="800"> 
