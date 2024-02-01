@@ -13,12 +13,14 @@
         <img src='images/ppt/投影片3.JPG' width="800"> 
         <img src='images/ppt/投影片4.JPG' width="800"> 
     </div> 
+
     - 解決延遲問題
     <div align=center>
         <img src='images/ppt/投影片5.JPG' width="800"> 
         <img src='images/ppt/投影片6.JPG' width="800"> 
         <img src='images/ppt/投影片7.JPG' width="800"> 
     </div> 
+    
 - 機器學習
     - 用matlab訓練&判斷模型
     <div align=center>
