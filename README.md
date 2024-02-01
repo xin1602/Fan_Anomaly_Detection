@@ -10,8 +10,8 @@
 - 感測器製作
     - mpu6050量測數據
     <div align=center>
-        <img src='images/ppt/投影片3.JPG' width="410"> 
-        <img src='images/ppt/投影片4.JPG' width="410"> 
+        <img src='images/ppt/投影片3.JPG' width="800"> 
+        <img src='images/ppt/投影片4.JPG' width="800"> 
     </div> 
 
     - 解決延遲問題
